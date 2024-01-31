@@ -1,7 +1,7 @@
 
 Γεια σας,
 
-1: Ανοίγουμε  ενα terminal και κανουμε npm i εφόσον ολοκληρωθεί γραφουμε στο terminal cd src/server και κανουμε npm i.
+1: Ανοίγουμε  ενα terminal και κανουμε npm i εφόσον βρισκόμαστε \NeliosTask-main> οταν ολοκληρωθεί γραφουμε στο terminal cd src/server και κανουμε npm i.
 
  
 
@@ -12,6 +12,9 @@
 
 3: Ανοιγουμε ενα νεο terminal χωρίς να κλείσουμε το προηγούμενο και εφόσον βρισκόμαστε στο 
 \NeliosTask-main γράφουμε npm run dev και αυτο θα πάρει κάποιο χρόνο να φορτώσει .
+
+
+
 
 4: ▲ Next.js 14.1.0
    - Local:        http://localhost:3000    κανουμε ctrl left click και είμαστε έτοιμοι.
