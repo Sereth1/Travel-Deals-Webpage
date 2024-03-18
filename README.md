@@ -15,3 +15,6 @@ Technologies Used
 Frontend: HTML, CSS, JavaScript
 Backend: Node.js
 Dummy Data Generation: Used Node.js to create a script that generates dummy data for the application.
+
+
+![Screenshot 2024-03-18 094759](https://github.com/Sereth1/NeliosTask/assets/129552184/f0627350-d2c1-4d65-8a38-d846d88db531)
